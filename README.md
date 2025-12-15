@@ -1,3 +1,7 @@
+# Status: Archived 
+
+No longer maintained
+
 # GraphVarMiner
 
 ## Description
